@@ -5,7 +5,7 @@ function spell:init()
 
     -- Display name
     self.name = "Pacify"
-    -- Name displayed when cast (optional)
+    -- Name displayed when cast (optional) 
     self.cast_name = nil
 
     -- Battle description
